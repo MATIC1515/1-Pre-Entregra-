@@ -1,0 +1,15 @@
+body{
+    background-color: gray;
+    min-height: 100vh;
+    margin: auto;
+
+}
+
+.TitleAni{
+    margin: 0 0.5rem;
+    animation: bounce;
+    animation-duration: 2s;
+    animation-iteration-count:initial;
+    text-align: center;
+    padding-bottom: 30px;
+}
